@@ -1,0 +1,55 @@
+2020-11-25 23:35:49,296 root ERROR:29f0bfa7-bd51-4d45-93be-f6ead1ae0b96.json невалидный
+2020-11-25 23:35:49,296 root ERROR:Несоответствие типов, ожидали данные, получили null
+2020-11-25 23:35:49,296 root ERROR:a95d845c-8d9e-4e07-8948-275167643a40.json невалидный
+2020-11-25 23:35:49,296 root ERROR:Файл пуст или в нем отсутствует нужный ключ "event"
+2020-11-25 23:35:49,301 root INFO:NEWFILE>>>>>>   1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json
+2020-11-25 23:35:49,305 root ERROR:'unique_id' is a required property
+2020-11-25 23:35:49,306 root ERROR:'user' is a required property
+2020-11-25 23:35:49,306 root ERROR:'user_id' is a required property
+2020-11-25 23:35:49,306 root INFO:ENDFILE<<<<<<   1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json
+2020-11-25 23:35:49,306 root INFO:NEWFILE>>>>>>   297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json
+2020-11-25 23:35:49,390 root ERROR:'type' is a required property
+2020-11-25 23:35:49,391 root ERROR:'type' is a required property
+2020-11-25 23:35:49,391 root ERROR:'type' is a required property
+2020-11-25 23:35:49,391 root INFO:ENDFILE<<<<<<   297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json
+2020-11-25 23:35:49,391 root INFO:NEWFILE>>>>>>   2e8ffd3c-dbda-42df-9901-b7a30869511a.json
+2020-11-25 23:35:49,391 root ERROR:meditation_created.schema невалидный
+2020-11-25 23:35:49,391 root WARNING:2e8ffd3c-dbda-42df-9901-b7a30869511a.json имеет невалидную ссылку на схему
+2020-11-25 23:35:49,392 root INFO:ENDFILE<<<<<<   2e8ffd3c-dbda-42df-9901-b7a30869511a.json
+2020-11-25 23:35:49,392 root INFO:NEWFILE>>>>>>   3ade063d-d1b9-453f-85b4-dda7bfda4711.json
+2020-11-25 23:35:49,392 root ERROR:cmarker_calculated.schema невалидный
+2020-11-25 23:35:49,392 root WARNING:3ade063d-d1b9-453f-85b4-dda7bfda4711.json имеет невалидную ссылку на схему
+2020-11-25 23:35:49,392 root INFO:ENDFILE<<<<<<   3ade063d-d1b9-453f-85b4-dda7bfda4711.json
+2020-11-25 23:35:49,392 root INFO:NEWFILE>>>>>>   3b4088ef-7521-4114-ac56-57c68632d431.json
+2020-11-25 23:35:49,393 root INFO:ENDFILE<<<<<<   3b4088ef-7521-4114-ac56-57c68632d431.json
+2020-11-25 23:35:49,393 root INFO:NEWFILE>>>>>>   6b1984e5-4092-4279-9dce-bdaa831c7932.json
+2020-11-25 23:35:49,393 root ERROR:meditation_created.schema невалидный
+2020-11-25 23:35:49,393 root WARNING:6b1984e5-4092-4279-9dce-bdaa831c7932.json имеет невалидную ссылку на схему
+2020-11-25 23:35:49,393 root INFO:ENDFILE<<<<<<   6b1984e5-4092-4279-9dce-bdaa831c7932.json
+2020-11-25 23:35:49,393 root INFO:NEWFILE>>>>>>   ba25151c-914f-4f47-909a-7a65a6339f34.json
+2020-11-25 23:35:49,393 root ERROR:label_       selected.schema невалидный
+2020-11-25 23:35:49,393 root WARNING:ba25151c-914f-4f47-909a-7a65a6339f34.json имеет невалидную ссылку на схему
+2020-11-25 23:35:49,394 root WARNING:ba25151c-914f-4f47-909a-7a65a6339f34.json имеет невалидную ссылку на схему
+2020-11-25 23:35:49,394 root INFO:ENDFILE<<<<<<   ba25151c-914f-4f47-909a-7a65a6339f34.json
+2020-11-25 23:35:49,394 root INFO:NEWFILE>>>>>>   bb998113-bc02-4cd1-9410-d9ae94f53eb0.json
+2020-11-25 23:35:49,476 root ERROR:'unique_id' is a required property
+2020-11-25 23:35:49,476 root INFO:ENDFILE<<<<<<   bb998113-bc02-4cd1-9410-d9ae94f53eb0.json
+2020-11-25 23:35:49,477 root INFO:NEWFILE>>>>>>   c72d21cf-1152-4d8e-b649-e198149d5bbb.json
+2020-11-25 23:35:49,477 root ERROR:meditation_created.schema невалидный
+2020-11-25 23:35:49,477 root WARNING:c72d21cf-1152-4d8e-b649-e198149d5bbb.json имеет невалидную ссылку на схему
+2020-11-25 23:35:49,477 root INFO:ENDFILE<<<<<<   c72d21cf-1152-4d8e-b649-e198149d5bbb.json
+2020-11-25 23:35:49,477 root INFO:NEWFILE>>>>>>   cc07e442-7986-4714-8fc2-ac2256690a90.json
+2020-11-25 23:35:49,479 root ERROR:None is not of type 'object'
+2020-11-25 23:35:49,479 root INFO:ENDFILE<<<<<<   cc07e442-7986-4714-8fc2-ac2256690a90.json
+2020-11-25 23:35:49,479 root INFO:NEWFILE>>>>>>   e2d760c3-7e10-4464-ab22-7fda6b5e2562.json
+2020-11-25 23:35:49,490 root ERROR:'bad user id' is not of type 'integer'
+2020-11-25 23:35:49,490 root INFO:ENDFILE<<<<<<   e2d760c3-7e10-4464-ab22-7fda6b5e2562.json
+2020-11-25 23:35:49,491 root INFO:NEWFILE>>>>>>   f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json
+2020-11-25 23:35:49,504 root INFO:ENDFILE<<<<<<   f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json
+2020-11-25 23:35:49,505 root INFO:NEWFILE>>>>>>   fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json
+2020-11-25 23:35:49,511 root ERROR:'cmarkers' is a required property
+2020-11-25 23:35:49,511 root INFO:ENDFILE<<<<<<   fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json
+2020-11-25 23:35:49,511 root INFO:NEWFILE>>>>>>   ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json
+2020-11-25 23:35:49,524 root ERROR:'suprt marker' is not of type 'array'
+2020-11-25 23:35:49,525 root ERROR:None is not of type 'integer'
+2020-11-25 23:35:49,527 root INFO:ENDFILE<<<<<<   ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json
